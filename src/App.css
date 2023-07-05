@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.divs{
+  justify-content: center;
+  position: relative;
+  margin-top: 200px;
+  display:inline;
+}
+.date{
+  padding: 10px;
+  margin-right: 10px;
+  max-inline-size: auto;
+}
+.text{
+  padding:10px;
+  margin: 10px;
+  margin-right: 10px;
+}
+.price{
+  padding:10px;
+  margin: 10px;
+  margin-right: 10px;
+}
+.submit{
+  padding:8px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.mainDiv{
+  position: relative;
+ 
+  padding: 10px;
+  justify-content: center;
+}
